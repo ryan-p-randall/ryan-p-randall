@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋  
+
+I'm a tinkerer and an over-thinker-er.  
+
+You can find me on Mastodon at <a rel="me" href="https://hcommons.social/@ryanrandall">Hcommons.social</a>.  
 
 <!--
 **ryan-p-randall/ryan-p-randall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
